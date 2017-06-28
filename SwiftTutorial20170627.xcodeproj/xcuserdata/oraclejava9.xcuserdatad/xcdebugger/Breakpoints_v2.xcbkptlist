@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTutorial20170627/ViewController.swift"
+            timestampString = "520245564.569503"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTutorial20170627.ViewController.uiTitle.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "SwiftTutorial20170627"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oraclejava9/Documents/20170626/SwiftTutorial20170627/SwiftTutorial20170627/ViewController.swift"
+                  timestampString = "520310175.493038"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTutorial20170627.ViewController.uiTitle.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "SwiftTutorial20170627"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oraclejava9/Documents/20170626/SwiftTutorial20170627/SwiftTutorial20170627/ViewController.swift"
+                  timestampString = "520310175.496694"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTutorial20170627.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SwiftTutorial20170627.ViewController"
+                  moduleName = "SwiftTutorial20170627"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oraclejava9/Documents/20170626/SwiftTutorial20170627/SwiftTutorial20170627/ViewController.swift"
+                  timestampString = "520310175.500643"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTutorial20170627.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SwiftTutorial20170627.ViewController&gt;"
+                  moduleName = "SwiftTutorial20170627"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oraclejava9/Documents/20170626/SwiftTutorial20170627/SwiftTutorial20170627/ViewController.swift"
+                  timestampString = "520310175.504248"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VT1ViewController.swift"
+            timestampString = "520244667.618033"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "moveNext(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
